@@ -1,0 +1,12 @@
+<empolyees>
+    <emp>
+        <name>max</name>
+        <name>xyz</name>
+        <salary>26250.0</salary>
+    </emp>
+    <emp>
+        <name>john</name>
+        <name>abc</name>
+        <salary>57750.0</salary>
+    </emp>
+</empolyees>

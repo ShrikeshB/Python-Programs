@@ -1,0 +1,22 @@
+<students>
+    <s>
+        <name>AAA</name>
+        <age>20</age>
+        <mark>45</mark>
+    </s>
+    <s>
+        <name>BBB</name>
+        <age>22</age>
+        <mark>55</mark>
+    </s>
+    <s>
+        <name>CCC</name>
+        <age>21</age>
+        <mark>35</mark>
+    </s>
+    <s>
+        <name>XXX</name>
+        <age>20</age>
+        <mark>65</mark>
+    </s>
+</students>

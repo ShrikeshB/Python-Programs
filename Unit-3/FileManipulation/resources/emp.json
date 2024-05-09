@@ -1,0 +1,32 @@
+{
+    "emp1": {
+        "age": 28,
+        "dept": "YYYY",
+        "name": "BBBB",
+        "salary": 21000
+    },
+    "emp2": {
+        "age": 23,
+        "dept": "XXX",
+        "name": "AAAA",
+        "salary": 23000
+    },
+    "emp3": {
+        "age": 36,
+        "dept": "YYYY",
+        "name": "CCCC",
+        "salary": 31000
+    },
+    "emp4": {
+        "age": 33,
+        "dept": "XXXX",
+        "name": "DDDD",
+        "salary": 41000
+    },
+    "emp5": {
+        "age": 23,
+        "dept": "ZZZZ",
+        "name": "EEEE",
+        "salary": 21000
+    }
+}

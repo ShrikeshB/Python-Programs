@@ -1,0 +1,37 @@
+[
+    {
+      "name": "John Doe",
+      "age": 30,
+      "email": "john.doe@example.com",
+      "city": "New York",
+      "country": "USA"
+    },
+    {
+      "name": "Alice Smith",
+      "age": 25,
+      "email": "alice.smith@example.com",
+      "city": "London",
+      "country": "UK"
+    },
+    {
+      "name": "Mohammed Khan",
+      "age": 35,
+      "email": "mohammed.khan@example.com",
+      "city": "Dubai",
+      "country": "UAE"
+    },
+    {
+      "name": "Maria Garcia",
+      "age": 28,
+      "email": "maria.garcia@example.com",
+      "city": "Madrid",
+      "country": "Spain"
+    },
+    {
+      "name": "Satoshi Nakamoto",
+      "age": 45,
+      "email": "satoshi.nakamoto@example.com",
+      "city": "Tokyo",
+      "country": "Japan"
+    }
+  ]

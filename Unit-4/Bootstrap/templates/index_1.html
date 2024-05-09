@@ -1,0 +1,19 @@
+<html>
+    <head>
+        <meta name='viewport' content='width=device-width, initial-scale=1.0'>
+        {% extends 'bootstrap/base.html' %}
+        
+    </head>
+    <body>
+            {% block content %}
+                <div class='container'>
+                    <h1>flask app with lists</h1>
+                    <ul>
+                        {% for item in items %}
+                        <li class='list-group-item'>{{item}}</li>
+                        {% endfor %}
+                    </ul>
+                </div>
+            {% endblock %}
+    </body>
+</html>

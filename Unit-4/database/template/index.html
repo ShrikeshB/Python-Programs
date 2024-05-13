@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <h1>store numbers</h1>
+    <ul>
+        {% for num in numbers %}
+        <li>{{num.id}} -> {{num.value}}</li>
+        {% endfor %}
+    </ul>
+    <br>
+    <hr><br>
+    <form method="post" action="{{url_for('add_number')}}">
+        <input type="number" name="number" id="number" required>
+        <input type="submit" value="submit">
+    </form>
+</body>
+
+</html>
